@@ -87,7 +87,15 @@ Robustness, efficiency, interpretability, and ethical considerations in deployed
 - 💻 Java programming instructor for university students  
 - ▶️ **Java Programming Course (Persian, YouTube)**  
   [Watch the playlist](https://www.youtube.com/watch?v=QFfGQBFU5lw&list=PL-Uu2WAwwQV-pKiJpRYLgt1ggmzZJi8zl)
+  
+---
 
+## 🎈 Outside of Research
+
+When I’m not working on robots or code, I enjoy spending time on things that inspire creativity and curiosity:
+
+- 🎮 **Video games** — both playing them and thinking about *why* they work (mechanics, design, player behavior)
+- 🎸 **Arts**, especially **music and movies** — from playing guitar and piano to getting lost in good soundtracks and films
 ---
 
 ## 📫 Contact
