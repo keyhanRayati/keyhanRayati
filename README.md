@@ -1,101 +1,75 @@
-# Hi, I'm Keyhan 👋
+## 🧠 Research & Technical Interests
 
-I'm an M.Sc. graduate in **Artificial Intelligence** with a strong focus on **humanoid robotics, robot learning, and embodied AI**.  
-Most of my work revolves around building **learning-based systems that actually run on real robots**, where data is limited, sensors are noisy, and hardware doesn’t always behave nicely.
+My work spans multiple areas of Artificial Intelligence and Robotics, with a strong emphasis on real-world systems and temporal learning. The main directions I have worked on include:
 
-I enjoy working at the intersection of **perception, learning, and control**, and I’m especially interested in **data-efficient robot learning**, learning from demonstrations, and human-centered robotic systems.
+### 🤖 Robotics & Embodied AI
+- Humanoid robotics and learning-based robot control
+- Real-world robot deployment under hardware, sensing, and safety constraints
+- Perception–action pipelines for interactive robotic systems
+
+### 👀 Computer Vision for Robotics
+- Vision-based perception for robot learning and control
+- Human motion analysis and behavior representation from video
+- Feature-level perception for data-efficient robotic learning
+
+### 🔁 Temporal Modeling & Sequential Learning
+- Sequence modeling using recurrent and attention-based architectures
+- Temporal representation of motion, actions, and multimodal sensor streams
+- Time–frequency analysis for robust modeling of non-stationary signals
+
+### 🎯 Learning from Demonstration (Vision-Based)
+- Data-efficient learning from human demonstrations using visual perception
+- Imitation learning frameworks for humanoid robots
+- Emphasis on small-data regimes and interpretable representations  
+  ▶️ Demo video: https://youtu.be/cuUF_SJkuuI
+
+### 🧠 Reinforcement Learning & Agentic Systems
+- Hands-on experience with reinforcement learning for robotic manipulation
+- Development of DDQN-based solutions for pick-and-place tasks in simulation
+- Interest in agentic AI systems that learn through interaction and feedback
+
+### 🔊 Multimodal & Sensor-Based Learning
+- Audio–visual perception for robotic systems
+- Multimodal activity recognition using wearable and sensor data
+- Robust learning under domain shift and noisy measurements
+
+### 📉 Data-Efficient, Robust AI
+- Designing models that work with limited data and imperfect sensing
+- Preference for structured, lightweight, and deployable learning systems
+- Trustworthy AI concepts: robustness, efficiency, and interpretability
 
 ---
 
-## 🚀 What I work on
+## 📄 Research Output
 
-- 🤖 **Humanoid Robots & Physical AI** (mostly NAO)
-- 👀 Vision-based robot learning & closed-loop systems
-- 🧠 Learning from Demonstration (LfD) & imitation learning
-- 📉 Data-efficient and robust learning under real-world constraints
-- 🔊 Multimodal perception (vision, audio, sensors)
-- 🧪 Bridging research ideas with deployable robotic systems
+- **4 research papers** (2 published, 2 under review)
+- Two papers focus exclusively on **humanoid robot learning and control**
+- Topics include imitation learning, sound source localization, data-efficient LfD, and multimodal activity recognition
 
----
-
-## 🎓 Background
-
-- **M.Sc. in Artificial Intelligence** — University of Tehran  
-  GPA: **18.05 / 20**  
-- Researcher at **Human & Robot Interaction Lab (TAARLab)**  
-- Ranked **Top 0.2%** in the national M.Sc. entrance exam (Computer Science)
-
-Working with real robots during my Master’s shaped how I think about AI:  
-robustness, simplicity, and practicality matter just as much as model accuracy.
-
----
-
-## 📄 Publications & Research
-
-My research has resulted in **4 papers (2 published, 2 under review)**:
-
-- **Real-Time Imitation of Human Head Motions, Blinks and Emotions by NAO Robot**  
-  *IEEE ICRoM 2023*  
-  Vision-based, closed-loop imitation learning on a humanoid robot  
-  👉 https://ieeexplore.ieee.org/abstract/document/10412471/
-
-- **Sound Source Localization in a 3D Multi-Surface Environment Using Learning-Based Methods**  
-  *IEEE ICRoM 2024*  
-  Real-time auditory perception using deep learning  
-  👉 https://ieeexplore.ieee.org/abstract/document/10903645/
-
-- **A Data-Efficient Learning from Demonstration Framework for Humanoid Robots** *(under review)*  
-  Learning manipulation skills from a small number of demonstrations
-
-- **DWTAN: A Deep Wavelet-Time Attention Network for Human Sensor-Based Multimodal Activity Recognition** *(under review)*  
-  Domain adaptation and robust activity recognition from wearable sensors
-
-📚 **Google Scholar:**  
+📚 Google Scholar:  
 https://scholar.google.com/citations?user=scND7yUAAAAJ&hl=en
 
 ---
 
 ## 🛠️ Code & Projects
 
-- 🤖 **Master’s Thesis Code (NAO Humanoid Robot)**  
-  Learning from Demonstration & imitation learning on real hardware  
-  👉 https://github.com/TaarLab/NaoLfD
-
-More robotics and ML projects are gradually being cleaned up and released here.
+- 🤖 **Master’s Thesis Repository (Humanoid Robot Learning from Demonstration)**  
+  https://github.com/TaarLab/NaoLfD
 
 ---
 
-## 💬 A bit more about me
+## 🎓 Teaching & Knowledge Sharing
 
-Learning and teaching have always gone together for me.  
-After learning guitar, I taught it to children; after learning programming, I taught Java to other students and shared content online. I enjoy explaining complex ideas in simple terms and collaborating with people who are curious and motivated.
+Teaching has always been an important part of my learning process. Alongside my academic work, I have actively shared knowledge through teaching and online content:
 
-Outside of research, I enjoy:
-- 🎮 Video games (and thinking about why they work)
-- 🎸 Music
-- 🧠 Long technical discussions about AI systems that *actually* work
+- 🎸 Taught guitar to children at a music institute
+- 💻 Taught Java programming to university students
+- ▶️ **Java Programming Course (Persian, YouTube)**  
+  https://www.youtube.com/watch?v=QFfGQBFU5lw&list=PL-Uu2WAwwQV-pKiJpRYLgt1ggmzZJi8zl
 
 ---
 
-## 📫 Let’s connect
+## 📫 Contact
 
-- 📧 Email: **keyhanryt@gmail.com** | **keyhan.rayati@ut.ac.ir**
+- 📧 Email: keyhanryt@gmail.com | keyhan.rayati@ut.ac.ir  
 - 💼 LinkedIn: https://www.linkedin.com/in/keyhan-rayati-50034116b/
-- 📚 Google Scholar: https://scholar.google.com/citations?user=scND7yUAAAAJ&hl=en
-
-Always learning, building, and trying to make intelligent systems a little more grounded 🤖✨
-
-<!--
-**keyhanRayati/keyhanRayati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
