@@ -1,104 +1,203 @@
-# Hi, I’m Keyhan 👋
+# Hi, I'm Keyhan Rayati Dehsaraei 👋
 
-I am an **M.Sc. graduate in Artificial Intelligence** with a focus on **robotics, computer vision, deep learning, and reinforcement learning**. I have experience applying learning algorithms to **real-world robotic systems**, including **imitation learning, learning from human demonstrations, SLAM, and intelligent control**. I am particularly interested in **robust and trustworthy AI systems**, as well as learning-based agents that operate in physical and interactive environments.
+I am an AI and Robotics researcher with an M.Sc. in **Computer Engineering: Artificial Intelligence and Robotics** from the **University of Tehran**.
 
----
+My main interests are **robot learning, embodied AI, computer vision, multimodal perception, temporal modelling, learning from demonstration, and intelligent agents**.
 
-## 🧠 Research Interests
+My research has focused on developing learning-based systems that connect perception with physical behaviour, particularly using humanoid robots and real-world sensory data. I also work with LLMs, RAG, agentic systems, and applied machine learning.
 
-### 🤖 Robotics & Embodied AI
-Learning-based perception and control for physical robots, with emphasis on real-world deployment.
-
-### 🤝 Social Robotics & Human–Robot Interaction
-Vision-based understanding of human behavior and socially expressive robot actions.
-
-### 👀 Computer Vision
-Visual perception for robotics, motion understanding, and activity recognition.
-
-### 🔁 Temporal Modeling
-Sequential and time-dependent modeling of motion, actions, and sensor data.
-
-### 🎯 Learning from Demonstration & Imitation Learning
-Vision-based learning of robot skills from human demonstrations in small-data settings.
-
-### 🧠 Reinforcement Learning
-RL methods for robotic manipulation and sequential decision-making, mainly in simulation.
-
-### 🤖 Agentic AI & LLM-Based Systems
-Experience with agent-based AI systems and LLM-driven pipelines, including RAG-based applications.
-
-### 🔊 Multimodal & Sensor-Based Learning
-Audio–visual and sensor-based learning under noise and domain shift.
-
-### 🛡️ Trustworthy & Explainable AI
-Robustness, efficiency, interpretability, and ethical considerations in deployed AI systems.
+📫 **Email:** keyhanryt@gmail.com  
+🎓 **Google Scholar:** https://scholar.google.com/citations?user=scND7yUAAAAJ  
+💻 **GitHub:** https://github.com/keyhanRayati
 
 ---
 
-## 🏫 Research Experience
+## 🔬 Research Interests
 
-**Researcher — Human & Robot Interaction Lab (TAARLab)**  
-*June 2022 – September 2024*
-
-- Developed two learning frameworks for imitation learning and learning from human demonstrations on a NAO humanoid robot  
-- Applied computer vision, deep learning, and reinforcement learning techniques to real robotic systems  
-- Focused on robustness, real-time performance, and deployment under hardware constraints  
-
----
-
-## 📄 Publications
-
-### 📰 Journals (Under Review)
-- **Rayati, K.**, et al.  
-  *A Data-Efficient Learning from Human Demonstrations Framework for Humanoid Robots*  
-  *(submitted to Robotics and Autonomous Systems — in collaboration with Oakland University)*  
-  ▶️ [Demo video](https://youtu.be/cuUF_SJkuuI)
-
-- **Jafaei, M.**, **Rayati, K.**, Nazerfard, E.  
-  *DWTAN: A Deep Wavelet-Time Attention Network for Human Sensor-Based Multimodal Activity Recognition*  
-  *(submitted to Personal and Ubiquitous Computing)*
-
-### 🎤 Conferences
-- **Rayati, K.**, et al.  
-  *Real-Time Imitation of Human Head Motions, Blinks and Emotions by NAO Robot: A Closed-Loop Approach*  
-  IEEE ICRoM 2023 — **Published**  
-  🔗 [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10412471)
-
-- **Esfahanian, S.**, **Rayati, K.**, Masouleh, M. T.  
-  *Sound Source Localization in a 3D Multi-Surface Environment Using Learning-Based Methods*  
-  IEEE ICRoM 2024 — **Published**  
-  🔗 [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10903645)
-
-📚 **Google Scholar**:  
-[View my publications](https://scholar.google.com/citations?user=scND7yUAAAAJ&hl=en)
+- Embodied AI and Robot Learning
+- Learning from Demonstration and Imitation Learning
+- Computer Vision and Multimodal Perception
+- Human–Robot Interaction
+- Temporal and Sequential Learning
+- Vision-Language and Agentic AI
+- Trustworthy and Adaptive AI
 
 ---
 
-## 🛠️ Code & Projects
+## 📚 Publications
 
-- 🤖 **Master’s Thesis — Learning from Demonstration on a Humanoid Robot**  
-  🔗 [GitHub Repository](https://github.com/TaarLab/NaoLfD)
+### Published & Accepted
+
+**Real-Time Imitation of Human Head Motions, Blinks and Emotions by Nao Robot: A Closed-Loop Approach**  
+*11th RSI International Conference on Robotics and Mechatronics (ICRoM), IEEE, 2023*  
+Keyhan Rayati et al.
+
+**Sound Source Localization in a 3D Multi-Surface Environment Using Learning-Based Methods**  
+*12th RSI International Conference on Robotics and Mechatronics (ICRoM), IEEE, 2024*  
+Soroush Esfahanian, Keyhan Rayati, Mehdi Tale Masouleh
+
+**Data-Efficient Learning from Demonstration for Humanoid Robots via Feature-Level Perception and Prompt-Based Object Detection**  
+*IEEE ISAIA 2026 — Accepted*  
+Keyhan Rayati et al.
+
+### Under Review
+
+**Unsupervised Domain Adaptation for Cross-User Wearable Sensor-Based Human Activity Recognition Using Deep Wavelet-Time Attention Networks**  
+*The Journal of Supercomputing — Under Review*  
+Mohammadreza Jafaei, Ehsan Nazerfard, Keyhan Rayati
 
 ---
 
-## 🎓 Teaching & Knowledge Sharing
+## 🚀 Featured Projects
 
-- 🎸 Guitar instructor for children at a music institute  
-- 💻 Java programming instructor for university students  
-- ▶️ **Java Programming Course (Persian, YouTube)**  
-  [Watch the playlist](https://www.youtube.com/watch?v=QFfGQBFU5lw&list=PL-Uu2WAwwQV-pKiJpRYLgt1ggmzZJi8zl)
-  
+### 🤖 AI Social Media Management Assistant
+**RAG · Agentic LLMs · Android**
+
+Developed an Android-based AI assistant for professional social media accounts using RAG and agentic LLMs to automate DM responses, recommend content and posting times, identify domain-specific trends, and assist with page management.
+
 ---
 
-## 🎈 Outside of Research
+### 📝 AI Meeting Summarizer & Action Tracker
+**Natural Language Processing · Whisper · T5 · LLMs**
 
-When I’m not working on robots or code, I enjoy spending time on things that inspire creativity and curiosity:
+Developed an AI meeting-processing system using Whisper Large, fine-tuned T5, regex, and LLM-based methods to transcribe and summarize meetings and extract action items, deadlines, and responsibilities.
 
-- 🎮 **Video games** — both playing them and thinking about *why* they work (mechanics, design, player behavior)
-- 🎸 **Arts**, especially **music and movies** — from playing guitar and piano to getting lost in good soundtracks and films
 ---
 
-## 📫 Contact
+### 🚦 Dynamic Traffic Intelligence
+**Machine Learning · Traffic Prediction · Route Optimisation**
 
-- 📧 Email: [keyhanryt@gmail.com](mailto:keyhanryt@gmail.com) | [keyhan.rayati@ut.ac.ir](mailto:keyhan.rayati@ut.ac.ir)  
-- 💼 LinkedIn: [Keyhan Rayati](https://www.linkedin.com/in/keyhan-rayati-50034116b/)
+Developed machine-learning models using Chicago traffic data to predict traffic conditions and built a map-based application that generates alternative routes and recommends an optimal route.
+
+---
+
+### 🎵 Mood-Based Music Recommender
+**Machine Learning · Recommendation Systems · Adaptive Learning**
+
+Developed an adaptive music recommendation system using user preferences, contextual information, and music arousal, with closed-loop feedback to continuously improve personalised recommendations.
+
+---
+
+### 🤖 Robot Localization and SLAM
+**ROS2 · Gazebo · Robotics**
+
+Implemented maze localisation and SLAM for a Vector robot using ROS2 and Gazebo.
+
+---
+
+### 🧠 EEG & fMRI Signal Analysis
+**Neuroscience · Signal Processing**
+
+Worked with EEG and fMRI data, including signal preprocessing and spike detection, as part of Cognitive Science coursework.
+
+---
+
+### 🎼 Music Instrument Classification
+**Machine Learning · Signal Analysis**
+
+Collected audio data from six musical instruments and developed machine-learning models for instrument classification.
+
+---
+
+### 📊 Netflix Data Analysis & Visualization
+**Data Science · Exploratory Data Analysis**
+
+Performed exploratory data analysis and visualization on a dataset of Netflix movies and TV shows.
+
+---
+
+### 📱 Golden Twitter
+**Java · Android Development**
+
+Developed a Twitter-inspired social media application using Java and Android Studio.
+
+---
+
+## 🧑‍🔬 Research Experience
+
+### Human & Robot Interaction Lab (TAARLab)
+**Researcher | University of Tehran | 2022–2024**
+
+Worked on machine-learning methods for real-world intelligent systems, including:
+
+- Data-efficient learning from human demonstrations
+- Vision-based humanoid perception
+- Object detection and depth-based localisation
+- Temporal sequence modelling
+- Multimodal sensor analysis
+- Real-time experiments on physical robotic platforms
+
+---
+
+## 💼 Industry & Teaching
+
+### AI & Python Programming Instructor — AIOlearn
+**2026–Present**
+
+Teaching Python, machine learning, deep learning, LLMs, and AI agents through project-based courses.
+
+### Machine Learning Engineer — Ariyana Shabake Afagh
+**2024**
+
+Worked on applied AI systems involving automated data collection, ML-based content understanding, RAG, LLM-based interaction, agentic workflows, and Android deployment.
+
+### Data Scientist Intern — MCI / Hamrah Aval
+**2023**
+
+Worked with SQL, Tableau, data analysis, and machine-learning methods for business data analysis and pattern discovery.
+
+---
+
+## 🛠 Technical Skills
+
+**Languages**  
+Python · Java · C++ · R · C# · MATLAB
+
+**Machine Learning & Deep Learning**  
+PyTorch · TensorFlow · scikit-learn · NumPy · Pandas  
+LSTM · GRU · Attention · Few-Shot Learning · Behaviour Cloning · Reinforcement Learning
+
+**Computer Vision & Robotics**  
+OpenCV · YOLO · SAM · Pose Estimation · Depth Perception  
+ROS · ROS2 · Gazebo · CoppeliaSim · SLAM · Imitation Learning
+
+**LLMs & NLP**  
+RAG · Agentic AI · LLM-based Applications · Transformer Fine-Tuning · Whisper · T5
+
+**Data & Analysis**  
+SQL · Tableau · Signal Processing · Statistical Analysis
+
+---
+
+## 🎓 Education
+
+### University of Tehran
+**M.Sc. Computer Engineering — Artificial Intelligence and Robotics**  
+2021–2024 | GPA: **18.05/20**
+
+Research focused on humanoid robotics, learning from demonstration, computer vision, and temporal modelling.
+
+### Babol Noshirvani University of Technology
+**B.Sc. Computer Engineering**  
+2016–2020 | GPA: **16.76/20**
+
+---
+
+## 🏆 Highlights
+
+- Ranked **41st among more than 20,000 candidates (Top 0.2%)** in Iran's National M.Sc. Entrance Examination in Computer Science.
+- Research experience with physical humanoid robots and multimodal sensory data.
+- Publications spanning robot learning, real-time computer vision, and learning-based audio localisation.
+- IELTS Academic: **7.5**
+
+---
+
+## 🤝 Research Collaboration
+
+I am interested in research opportunities and collaborations in:
+
+**Embodied AI · Robot Learning · Computer Vision · Multimodal AI · Human–Robot Interaction · Vision-Language-Action Models · Agentic AI**
+
+Feel free to reach out:
+
+📧 **keyhanryt@gmail.com**
